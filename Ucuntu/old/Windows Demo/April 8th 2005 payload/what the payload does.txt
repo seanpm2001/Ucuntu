@@ -1,0 +1,10 @@
+Since the current version 5.04 was released today, and is called hoary hedgehog
+we might as well make a joke about it.
+It will first disable the terminal, then will pop up a picture of sanic saying 
+"gotta go fast" 
+this will follow your clock opening up and being set to January 13th 2000,
+then it will start going up 1 year per second until it reaches January 13th 2038
+which is the day that UNIX gets bricked on 32 bit systems by Y2K38
+however, if your system is detected as 64 bit, on January 13th 2020, it will
+wipe your master boot record, then continue to count until it bricks itself
+so even if your system is 64 bit, you will still receive alotta damage :)
