@@ -1,0 +1,1 @@
+x=msgbox("THE POWER OF 32 BIT IS NOT ENOUGH. WE MUST GO UP!",0+16,"Integer Error")

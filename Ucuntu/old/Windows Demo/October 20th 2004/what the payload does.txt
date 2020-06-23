@@ -1,0 +1,9 @@
+Displays message box saying: THE POWER OF 32 BIT ISN'T HIGH ENOUGH! LET'S GO UP!
+When the message box is clicked:
+everything starts scrolling up automatically, Windows will start flying to the top
+of the screen.
+This will also trigger an integer count that goes from the 16 bit value of 65,536
+all the way to the 32 bit value of 2147483647, and will start counting by 32,767
+if the system is not 32 bit, it will then start counting by 1,000,000s until it reaches
+a 64 bit integer. It will then continue to run until it either crashes, or reaches a googol
+(1,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000)
