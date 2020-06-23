@@ -1,0 +1,11 @@
+October 12th 2005 is the release date of Ubuntu 5.10 breezy badger, so your 
+computer is going to get a bit windy
+it will start again by locking your administrative access, then it will start
+making all text documents fly to the side of your screen, and the breeze will 
+continue for a while, before it causes a kernel panic
+not much, but it is something
+when your computer reboots, all the text documents will be replaced with the text:
+
+BREEEZYBREEZYBREEZYBREEZYBREEZYBREEZYBREEZYBREEZYBREEZYBREEZY
+
+for 510 lines, causing a total of 31,620 bytes of text to be in the document. 
